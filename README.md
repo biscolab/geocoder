@@ -1,3 +1,6 @@
+# *** NO LONGER MANTAINED ***
+Replaced by [Google Maps PHP SDK](https://github.com/biscolab/google-maps-php-sdk)
+
 # Geocoder
 Simple Google Maps Geocoder PHP library.
 Get Latitude and Longitude of selected address in few steps!
